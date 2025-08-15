@@ -1,6 +1,7 @@
 # Bird Cam XTreme
 
 - [Bird Species Identification Python - ChatGPT - Private](https://chatgpt.com/c/682387f2-6600-8002-aa7d-a10a94c01af1)
+- [Bird Species Identification Python - ChatGPT - Shared](https://chatgpt.com/share/689f9104-d3f4-8002-a132-b2eaea2c5162)
 
 
 ---
